@@ -6,6 +6,21 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "netoifpe@gmail.com",
+      "password": "$2a$10$viu38aN9Yox0dfCyw3lHzO8kuzQH5yJJV8./VMJTrFMJTwjxlzfu6",
+      "id": 2
+    }
+  ],
+  "courses": [
+    {
+      "userId": 2,
+      "title": "Curso HTML 5",
+      "author": "Antonio Santos",
+      "duration": "20 horas",
+      "description": " testanto 123",
+      "id": 1
     }
   ]
 }
